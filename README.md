@@ -5,7 +5,7 @@
 
 Why I don't use my repo that often? just because I have my employer's internal repos.
 
-Some achievements/certifications:
+Some of my achievements/certifications:
 - [Linux Foundation Certified System Administrator](https://www.credly.com/badges/90970ff9-d2b3-418a-b5f7-f8494da44b06/public_url).
 - [GitHub Administration](https://www.credly.com/badges/74ab5e83-a19e-489e-b9c5-97d667499122/public_url).
 <!---
