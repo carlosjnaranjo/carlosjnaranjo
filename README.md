@@ -1,7 +1,7 @@
 - 👋 Hi, this is @carlosjnaranjo (Carlos J Naranjo).
 - 👀 I have been primarily a Linux/Unix systems administrator, with some programming experience (Perl, Shell Scripting, etc), ITIL foundations, plenty of infrastructure and operations.
-- Well versed on VMWare (vSAN, vCenter), SAN storage (XtremIO, Unity), Backups (Avamar, Cohesity) and F5 Load Balancers (BigIP LTM) as well as some automation either via scripting or via Ansible.
 - I am currently starting to broaden my Python experience.
+- Well versed on VMWare (vSAN, vCenter), SAN storage (XtremIO, Unity), Backups (Avamar, Cohesity) and F5 Load Balancers (BigIP LTM) as well as some automation either via scripting or via Ansible.
 
 Why I don't use my public repos that often? just because I have my employer's internal repos.
 
